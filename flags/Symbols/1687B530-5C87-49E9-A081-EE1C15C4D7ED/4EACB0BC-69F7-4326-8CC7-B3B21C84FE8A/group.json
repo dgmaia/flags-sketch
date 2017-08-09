@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "4EACB0BC-69F7-4326-8CC7-B3B21C84FE8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "268DB1D8-A7E6-4944-8858-D135AC4A543F",
+    "height": 20,
+    "width": 28,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CD4E1CB3-84B4-4EF4-8314-FF56C23C7E5F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E7AF5603-9B9D-4347-88B2-B917A56A90BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70A1A0EA-6F31-4F05-ADC3-6791F6B92A4F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BB0BF8F-BAC7-429C-81A1-08372F6CEC43"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B4523400-3D2A-48C1-B412-AACAC3A45A93"
+    }
+  ],
+  "name": "CY",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0D7B2F01-6021-4BA0-896B-282B3DDBD6DE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "00B02282-3FD3-4C81-A3AE-264031594AB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 8,
+    "width": 10,
+    "x": 9.333333333333314,
+    "y": 6.666666666666686
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5E4B9CD9-F54E-4BAC-B48E-A3049E1EFE9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78CB1336-E14C-43C3-B299-9DEED88A4496"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7CB9CA6-BEDB-444D-A24C-A667752BE4DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "610330AF-A3A6-4AFA-90AC-2E05D74CA33F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "66D3D8A5-A22E-47D3-B83D-F2D0E04E908D"
+    }
+  ],
+  "name": "Rectangle 180",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "31B8723E-9AF9-404D-A3B4-BCFFA7877FA4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

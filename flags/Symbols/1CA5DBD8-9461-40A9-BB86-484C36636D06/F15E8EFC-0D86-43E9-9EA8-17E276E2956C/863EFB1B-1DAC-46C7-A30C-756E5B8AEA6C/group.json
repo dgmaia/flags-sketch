@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "863EFB1B-1DAC-46C7-A30C-756E5B8AEA6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2.666666666666667,
+    "width": 4,
+    "x": 4,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CAB6353F-3E65-4826-B01E-3D354DC4E059"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19153DB7-F8CA-4099-8F9A-2E949521566C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5C441581-8071-44A6-9CF1-02470107721A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25B15E52-B0D8-4721-B004-EBA785A96FAD"
+    }
+  ],
+  "name": "Oval 161 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FDAB665D-B10B-4033-B704-E5EE099670DE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

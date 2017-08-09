@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "CEFA993A-8C95-4697-BCFA-C4EB6E9126F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E0BE684-0F69-49D6-983B-6753D927E80C",
+    "height": 20,
+    "width": 28,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EAB0D242-C49A-4C1F-92D7-1203380A416D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5DE9C72-0177-40D7-A03C-E7CC73177605"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE258EAC-D188-4545-AAD0-143F621D3FB0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4566B7E2-D0F8-4A17-86AC-425467B818A9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68C4DBB4-E74D-4107-BE0C-5FB96912E5DC"
+    }
+  ],
+  "name": "PA",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B6239B13-9012-4939-880D-66400A3FE252",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
